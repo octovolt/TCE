@@ -22,7 +22,7 @@ Build Guide
 +--------------------------------+
 ```
 
-When soldering, please also see the [interactive BOM]().
+When soldering, please also see the [interactive BOM](https://octovolt.github.io/TCE).
 
 Steps:
 
