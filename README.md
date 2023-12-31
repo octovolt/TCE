@@ -41,5 +41,6 @@ Steps:
 12. If you used an IC socket, put the IC in the socket. If you did not use a socket, solder the IC now. Mind the polarity! The small semi-circle on the board should match the notch on the IC.
 13. Test and enjoy!
 
+![3DView1](https://github.com/octovolt/TCE/assets/78008936/e1e90ec4-956b-4947-9fed-bfc4c0f6c1aa)
 
 
