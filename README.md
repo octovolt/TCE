@@ -1,7 +1,7 @@
 TCE: Two Comparator Effect
 ===
 
-This is a Eurorack version of the [two_comparator_effect](https://github.com/cyberboy666/two_comparator_effect) originally designed by [Rob Schafer](https://www.youtube.com/c/schaferob) and later improved by [cyberboy666](https://github.com/cyberboy666). I communicated with cyberboy666 before publishing this module and received his blessing for doing so.
+This is a Eurorack version of the [two_comparator_effect](https://github.com/cyberboy666/two_comparator_effect) originally designed by [Rob Schafer](https://www.youtube.com/c/schaferob) and later improved by [cyberboy666](https://github.com/cyberboy666). I communicated with cyberboy666 before publishing this module and received his blessing to do so.
 
 The circuit compares the voltage of a composite video signal to two different threshold voltages to produce two binary signals. That is, if the video signal is brighter than the threshold, the output is "high" or white. If the video signal is darker than the threshold, the output is "low" or black. One of the binary signals is actually sent out at a lower voltage level than the other, so the mixed output of both signals looks like white, gray and black.
 
