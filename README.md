@@ -35,4 +35,7 @@ Steps:
 
 ![3DView1](https://github.com/octovolt/TCE/assets/78008936/e1e90ec4-956b-4947-9fed-bfc4c0f6c1aa)
 
+![3DView2](https://github.com/octovolt/TCE/assets/78008936/aee480e0-fdf1-49a1-851b-43fc430dd3a2)
+
+
 
