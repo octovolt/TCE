@@ -24,7 +24,7 @@ Steps:
 3. Solder the ceramic capacitors on the back side of the board.
 4. Solder the socket for the IC, if you want to one. People say it introduces extra capacitance, but it's probably no big deal in this circuit. A socket will protect the IC and make it reusable in other projects.
 5. Solder the transistor and voltage regulators (U2, U3, Q1). Make sure they are facing the correct direction as indicated on the circuit board.
-6. Solder the shrouded power headers.
+6. Solder the power headers. Please note that a shrouded, keyed power header will be very slightly too wide for a 4hp module (fractions of a millimeter) so you should probably use normal header pins here. The PCB is marked to indicate where the -12v (red stripe) of the power cable should go.
 7. Solder the electrolytic capacitors. Mind the polarity -- the white side of the circle on the circuit board is the negative side of the capacitor.
 8. Place but do not solder the jacks, knobs and switch on the front side of circuit board.
 9. Place the front panel over the jacks, knobs and switch, and then use their nuts to attach them to the front panel.
